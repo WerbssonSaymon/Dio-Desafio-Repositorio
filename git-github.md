@@ -9,6 +9,7 @@
     <li>git commit</li>
     <li>git push</li>
     <li>git pull</li>
+    <li>git clone</li>
     <li>git checkout</li>
     <li>git merge</li>
 </ul>    
