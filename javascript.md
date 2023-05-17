@@ -12,4 +12,5 @@
     <li>exportação</li>
     <li>DOM - Document Object Model</li>
     <li>protocolo HTTP</li>
+    <li>API</li>
 </ul>
